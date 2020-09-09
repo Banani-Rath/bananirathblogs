@@ -1,1 +1,3 @@
-# bananirath blogs
+# BananiRath blogs
+
+This is my blogs
