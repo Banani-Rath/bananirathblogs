@@ -11,29 +11,32 @@
 
 ## Kubernetes docs
 
-All kubernetes docs canbe found here : https://kubernetes.io/docs/home/
-FOr Blogs: https://kubernetes.io/blog/
+All kubernetes docs refer [here](https://kubernetes.io/docs/home/)
+
+For Blogs: https://kubernetes.io/blog/
 
 Kubernetes also known as k8s because of the eight letters between K and S.
 
 ## Kubectl command reference
 
-https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
+[Kubectl cheatsheet](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
 
-https://www.tutorialspoint.com/kubernetes/kubernetes_kubectl_commands.htm
+[Tutorial point](https://www.tutorialspoint.com/kubernetes/kubernetes_kubectl_commands.htm
+) may be helpful as well.
 
 ## Working with Kubernetes in VS Code
 
-https://code.visualstudio.com/docs/azure/kubernetes
+[This document](https://code.visualstudio.com/docs/azure/kubernetes) will walk you through the process of deploying an application to Kubernetes with Visual Studio Code
 
 ## KATACODA : Kuberenetes Playground
 
-https://www.katacoda.com/courses/kubernetes/playground
+[KATACODA](https://www.katacoda.com/courses/kubernetes/playground) provides a real environments right in your browser to play with K8S.
 
 ## Azure Kubenetes Docs
 
-https://docs.microsoft.com/en-us/learn/browse/?terms=kubernetes
-https://docs.microsoft.com/en-us/azure/aks/
+[For ineractive learning and geta hands on AKS](https://docs.microsoft.com/en-us/learn/browse/?terms=kubernetes)
+
+[AKS Documentation](https://docs.microsoft.com/en-us/azure/aks/)
 
 ## Difference between AKS & AKS Engine
 
